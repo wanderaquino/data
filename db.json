@@ -5,17 +5,17 @@
       "value": true
   },
   {
-      "key":"isFeatureFlutter",
+      "key":"loginFlutter",
       "description":"Toggle para funcionalidade flutter",
       "value": false
   },
   {
-      "key":"isFeatureFlutter",
+      "key":"logoutFlutter",
       "description":"Toggle para funcionalidade flutter",
       "value": true
   },
   {
-      "key":"isFeatureFlutter",
+      "key":"ultraFlutter",
       "description":"Toggle para funcionalidade flutter",
       "value": false
   }]
