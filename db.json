@@ -1,0 +1,22 @@
+{
+  "options": [{
+      "key":"isFeatureFlutter",
+      "description":"Toggle para funcionalidade flutter",
+      "value": true
+  },
+  {
+      "key":"isFeatureFlutter",
+      "description":"Toggle para funcionalidade flutter",
+      "value": false
+  },
+  {
+      "key":"isFeatureFlutter",
+      "description":"Toggle para funcionalidade flutter",
+      "value": true
+  },
+  {
+      "key":"isFeatureFlutter",
+      "description":"Toggle para funcionalidade flutter",
+      "value": false
+  }]
+}
